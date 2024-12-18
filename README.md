@@ -1,6 +1,7 @@
-# Ex:03 Correlation and regression for data analysis
-
-# Date:22-9-23
+# EXP NO : 3 (CORRELATION REGRESSION)
+# NAME : YAZHINI.R.R
+# DATE : 26.10.2024
+# REGISTER NO : 24900920
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -22,11 +23,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
-DEVELOPED BY :ALAGU NACHIYAR K
-REGISTER NO : 212222240006
 ```
-
+DEVELOPED BY : YAZHINI R R
+REGISTER NO : 24900920
+```
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
